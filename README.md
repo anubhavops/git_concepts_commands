@@ -16,11 +16,11 @@
 
    ```
   
-- Command to add and commit the work i.e. **taking snapshot of work and saving in central repo** 
+- Command to add and commit the work i.e. **taking snapshot of work i.e. revision of our work and saving in central repo** 
 
-  '''
+  ```
   git add
-  git commit
-  '''
+  git commit -m "asdcqscasc"
+  ```
 
 
